@@ -24,6 +24,7 @@
 - 📄 Know about my experiences [https://github.com/SahilLangoo/#](https://github.com/SahilLangoo/#)
 
 - ⚡ Fun fact **null**
+<a href="https://app.daily.dev/sahillangoo"><img src="https://api.daily.dev/devcards/de90c2ec7c1e4d32ad9b06a5b98b7875.png?r=h62" width="400" alt="Sahil Ahmed's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
