@@ -5,25 +5,25 @@
 
 <p align="left"> <a href="https://twitter.com/kashurgeek" target="blank"><img src="https://img.shields.io/twitter/follow/kashurgeek?logo=twitter&style=for-the-badge" alt="kashurgeek" /></a> </p>
 
-- 🔭 I’m currently working on [Analysis & Design of Algorithms](https://github.com/SahilLangoo/#)
+- 🔭 I’m currently working on [Databases, Computer Architecture](https://github.com/SahilLangoo/#)
 
-- 🌱 I’m currently learning **React & Next JS & Advance C Programming**
+- 🌱 I’m currently learning **MSql & MongoDB**
 
-- 👯 I’m looking to collaborate on [Nextjs Template](https://github.com/SahilLangoo/nextjs-template)
+- 👯 I’m looking to collaborate on [null](https://github.com/SahilLangoo/#)
 
-- 🤝 I’m looking for help with [Algorithms with C Programming](https://github.com/SahilLangoo/#)
+- 🤝 I’m looking for help with [Intership](https://github.com/SahilLangoo/#)
 
 - 👨‍💻 All of my projects are available at [https://github.com/SahilLangoo/#](https://github.com/SahilLangoo/#)
 
 - 📝 I regularly write articles on [https://github.com/SahilLangoo/#](https://github.com/SahilLangoo/#)
 
-- 💬 Ask me about **Design & Web Development**
+- 💬 Ask me about **Design & Web Technologies**
 
 - 📫 How to reach me **sahil@squadcoders.com | sahillangoo@pm.com**
 
 - 📄 Know about my experiences [https://github.com/SahilLangoo/#](https://github.com/SahilLangoo/#)
 
-- ⚡ Fun fact **null**
+- ⚡ Fun fact **Computers works like human thinks**
 <br>
 <a href="https://app.daily.dev/sahillangoo"><img src="https://api.daily.dev/devcards/de90c2ec7c1e4d32ad9b06a5b98b7875.png?r=h62" width="400" alt="Sahil Ahmed's Dev Card"/></a>
 
