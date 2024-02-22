@@ -1,27 +1,27 @@
-<h1 align="center">Hi 👋, I'm Sahil Ahmad</h1>
+<h1 align="center">Hi 👋, I'm Sahil Langoo</h1>
 <h3 align="center">A passionate developer from Kashmir India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahillangoo&label=Profile%20views&color=0e75b6&style=flat" alt="sahillangoo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kashurgeek" target="blank"><img src="https://img.shields.io/twitter/follow/kashurgeek?logo=twitter&style=for-the-badge" alt="kashurgeek" /></a> </p>
 
-- 🔭 I’m currently working on [Databases, Computer Architecture](https://github.com/SahilLangoo/#)
+- 🔭 I’m currently working on [Go Lang, Web APIs](https://github.com/SahilLangoo/#)
 
-- 🌱 I’m currently learning **MSql & MongoDB**
+- 🌱 I’m currently learning **Go Lang**
 
 - 👯 I’m looking to collaborate on [null](https://github.com/SahilLangoo/#)
 
-- 🤝 I’m looking for help with [Intership](https://github.com/SahilLangoo/#)
+- 🤝 I’m looking for help with [null](https://github.com/SahilLangoo/#)
 
-- 👨‍💻 All of my projects are available at [https://github.com/SahilLangoo/#](https://github.com/SahilLangoo/#)
+- 👨‍💻 All of my projects are available at [Website]((https://sahillangoo.com/projects/))
 
-- 📝 I regularly write articles on [https://github.com/SahilLangoo/#](https://github.com/SahilLangoo/#)
+- 📝 I regularly write articles on [Blog](https://sahillangoo.com/blog/)
 
 - 💬 Ask me about **Design & Web Technologies**
 
-- 📫 How to reach me **sahil@squadcoders.com | sahillangoo@pm.com**
+- 📫 How to reach me **hey@sahillangoo.com | sahillangoo@pm.com**
 
-- 📄 Know about my experiences [https://github.com/SahilLangoo/#](https://github.com/SahilLangoo/#)
+- 📄 Know about my experiences [Website](https://sahillangoo.com)
 
 - ⚡ Fun fact **Computers works like human thinks**
 <br>
