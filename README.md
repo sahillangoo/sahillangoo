@@ -1,51 +1,114 @@
-<h1 align="center">Hi 👋, I'm Sahil Langoo</h1>
-<h3 align="center">A passionate developer from Kashmir India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahillangoo&label=Profile%20views&color=0e75b6&style=flat" alt="sahillangoo" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kashurgeek" target="blank"><img src="https://img.shields.io/twitter/follow/kashurgeek?logo=twitter&style=for-the-badge" alt="kashurgeek" /></a> </p>
+- 🏛️ **Co-Founder & Lead Engineer** at [@SquadCoders](https://github.com/SquadCoders)
+- 📍 **Location**: Kashmir, India (Open to high-impact engineering & architecture consulting)
+- 🌐 **Primary Stack**: Astro 7, TypeScript, Tailwind CSS v4, daisyUI 5, Hono, Cloudflare Workers & Pages
+- 🎯 **Engineering Philosophy**: KISS, YAGNI, 0.00 CLS, Zero-JS baselines, and End-to-End Type Safety (Zod)
+- ☕ **Currently Building**: Edge micro-proxies, local vision SLM tools, and high-throughput static architectures
 
-- 🔭 I’m currently working on [Go Lang, Web APIs](https://github.com/SahilLangoo/#)
+---
 
-- 🌱 I’m currently learning **Go Lang**
+### 🛠️ Core Technical Arsenal
 
-- 👯 I’m looking to collaborate on [null](https://github.com/SahilLangoo/#)
+<table>
+  <tr>
+    <td width="25%" valign="top"><strong>Frontend & Islands</strong></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/daisyUI_5-5AD8E6?style=flat-square&logo=daisyui&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><strong>Edge & Backend</strong></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" />
+      <img src="https://img.shields.io/badge/Meta_CAPI-0081FB?style=flat-square&logo=meta&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_&_GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><strong>Databases & Storage</strong></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite_%2F_D1-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudflare_KV_%2F_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><strong>Tooling & Quality</strong></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" />
+      <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
+      <img src="https://img.shields.io/badge/ESLint_10-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-- 🤝 I’m looking for help with [null](https://github.com/SahilLangoo/#)
+---
 
-- 👨‍💻 All of my projects are available at [Website]((https://sahillangoo.com/projects/))
+### 🚀 Featured Production Systems
 
-- 📝 I regularly write articles on [Blog](https://sahillangoo.com/blog/)
+- **[Enterprise Lead Funnels & Proxies](https://sahillangoo.in/projects/enterprise-lead-funnels/)** — High-concurrency distributed API proxies with Hono, Experian credit-report verification, and server-side Meta CAPI routing.
+- **[smart-img-cli](https://sahillangoo.in/projects/smart-img-cli/)** — High-throughput image compression and local vision SLM alt-text pipeline built with Bun and Gemma 2B.
+- **[SoulMedia Agency Platform](https://sahillangoo.in/projects/soulmedia-website/)** — Headless CMS architecture with Strapi, automated JSON-LD schema generation, and Cloudflare R2 object storage.
+- **[Template Astro Daisy](https://sahillangoo.in/projects/template-astro-daisy/)** — Open-source starter kit for Astro 7 + daisyUI 5 + Tailwind CSS v4 with OKLCH theme switching.
 
-- 💬 Ask me about **Design & Web Technologies**
+---
 
-- 📫 How to reach me **hey@sahillangoo.com | sahillangoo@pm.com**
+### 📝 Recent Technical Writing
 
-- 📄 Know about my experiences [Website](https://sahillangoo.com)
+- 📖 [Architecting Modern Web Systems with Astro 7 & Cloudflare](https://sahillangoo.in/blog/architecting-modern-astro-systems/)
+- 🔒 [Hardening Edge Security: Turnstile Integration with Astro](https://sahillangoo.in/blog/hardening-edge-security-turnstile-astro/)
+- ⚡ [Server-Side Meta Conversions API with Cloudflare Workers](https://sahillangoo.in/blog/server-side-capi-cloudflare-workers/)
+- 🤖 [Local SLM Vision Pipelines with Bun and Gemma](https://sahillangoo.in/blog/local-slm-vision-pipelines-bun-gemma/)
+- 📜 [The Lost Art of Minimalist Engineering](https://sahillangoo.in/blog/the-lost-art-of-minimalist-engineering/)
 
-- ⚡ Fun fact **Computers works like human thinks**
-<br>
-<a href="https://app.daily.dev/sahillangoo"><img src="https://api.daily.dev/devcards/de90c2ec7c1e4d32ad9b06a5b98b7875.png?r=h62" width="400" alt="Sahil Ahmed's Dev Card"/></a>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/sahillangoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sahillangoo" height="30" width="40" /></a>
-<a href="https://dev.to/sahillangoo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sahillangoo" height="30" width="40" /></a>
-<a href="https://twitter.com/kashurgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kashurgeek" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sahillangoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahillangoo" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sahillangoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sahillangoo" height="30" width="40" /></a>
-<a href="https://fb.com/sahillang00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahillang00" height="30" width="40" /></a>
-<a href="https://instagram.com/sahillangoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil.langoo" height="30" width="40" /></a>
-<a href="https://dribbble.com/sahillangoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sahillangoo" height="30" width="40" /></a>
-<a href="https://www.behance.net/sahillangoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sahillangoo" height="30" width="40" /></a>
-<a href="https://medium.com/@sahillangoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sahillangoo" height="30" width="40" /></a>
+### 📊 GitHub Activity & Telemetry
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sahillangoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=22c55e&icon_color=6366f1&text_color=a1a1aa" alt="Sahil Langoo GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahillangoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=22c55e&text_color=a1a1aa" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahillangoo&theme=tokyonight&hide_border=true&background=09090b&ring=22c55e&fire=6366f1&currStreakLabel=22c55e" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <a href="https://app.daily.dev/sahillangoo">
+    <img src="https://api.daily.dev/devcards/de90c2ec7c1e4d32ad9b06a5b98b7875.png?r=h62" width="380" alt="Sahil Langoo's Dev Card"/>
+  </a>
+</div>
+
+---
+
+### 🌐 Connect & Socials
+
+<p align="center">
+  <a href="https://sahillangoo.in"><img src="https://api.iconify.design/ph:globe-bold.svg?color=%2322c55e" width="24" height="24" alt="Website"/></a> &nbsp;&nbsp;
+  <a href="https://x.com/kashurgeek"><img src="https://api.iconify.design/ph:x-logo-bold.svg?color=%23ffffff" width="24" height="24" alt="X / Twitter"/></a> &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sahillangoo"><img src="https://api.iconify.design/ph:linkedin-logo-bold.svg?color=%230A66C2" width="24" height="24" alt="LinkedIn"/></a> &nbsp;&nbsp;
+  <a href="https://www.facebook.com/sahillangoojs/"><img src="https://api.iconify.design/ph:facebook-logo-bold.svg?color=%231877F2" width="24" height="24" alt="Facebook"/></a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/sahillangoo.in"><img src="https://api.iconify.design/ph:instagram-logo-bold.svg?color=%23E4405F" width="24" height="24" alt="Instagram"/></a> &nbsp;&nbsp;
+  <a href="https://dev.to/sahillangoo"><img src="https://api.iconify.design/ph:code-bold.svg?color=%2322c55e" width="24" height="24" alt="DEV.to"/></a> &nbsp;&nbsp;
+  <a href="https://app.daily.dev/sahillangoo"><img src="https://api.iconify.design/ph:newspaper-clipping-bold.svg?color=%236366f1" width="24" height="24" alt="Daily.dev"/></a> &nbsp;&nbsp;
+  <a href="mailto:hello@sahillangoo.in"><img src="https://api.iconify.design/ph:envelope-simple-bold.svg?color=%2322c55e" width="24" height="24" alt="Email"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahillangoo&show_icons=true&locale=en&layout=compact" alt="sahillangoo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahillangoo&show_icons=true&locale=en" alt="sahillangoo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahillangoo&" alt="sahillangoo" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahillangoo&label=Profile%20Views&color=22c55e&style=flat-square" alt="Profile Views" />
+</p>
+```
