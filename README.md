@@ -59,6 +59,7 @@
 
 ### 🚀 Featured Production Systems
 
+- **[tech-resume-expert](https://github.com/sahillangoo/tech-resume-expert)** — Agent-native career intelligence system, resume compiler & ATS auditor encoding Harvard CS standards, Google XYZ formulas, Amazon 16 LPs, and anti-AI-slop linters.
 - **[Enterprise Lead Funnels & Proxies](https://sahillangoo.in/projects/enterprise-lead-funnels/)** — High-concurrency distributed API proxies with Hono, Experian credit-report verification, and server-side Meta CAPI routing.
 - **[smart-img-cli](https://sahillangoo.in/projects/smart-img-cli/)** — High-throughput image compression and local vision SLM alt-text pipeline built with Bun and Gemma 2B.
 - **[SoulMedia Agency Platform](https://sahillangoo.in/projects/soulmedia-website/)** — Headless CMS architecture with Strapi, automated JSON-LD schema generation, and Cloudflare R2 object storage.
