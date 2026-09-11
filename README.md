@@ -59,6 +59,8 @@
 
 ### 🚀 Featured Production Systems
 
+- **[windows-maintenance-suite](https://github.com/sahillangoo/windows-maintenance-suite)** - God-tier Windows 11 and WSL2 maintenance, storage reclamation, developer toolchain pruning (pnpm, bun, wrangler), ReFS Dev Drive optimization, and hardware diagnostics.
+
 - **[tech-resume-expert](https://github.com/sahillangoo/tech-resume-expert)** — Agent-native career intelligence system, resume compiler & ATS auditor encoding Harvard CS standards, Google XYZ formulas, Amazon 16 LPs, and anti-AI-slop linters.
 - **[Enterprise Lead Funnels & Proxies](https://sahillangoo.in/projects/enterprise-lead-funnels/)** — High-concurrency distributed API proxies with Hono, Experian credit-report verification, and server-side Meta CAPI routing.
 - **[smart-img-cli](https://sahillangoo.in/projects/smart-img-cli/)** — High-throughput image compression and local vision SLM alt-text pipeline built with Bun and Gemma 2B.
