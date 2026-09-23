@@ -94,7 +94,7 @@
 </div>
 
 <div align="center">
-  <a href="https://app.daily.dev/sahillangoo">
+  <a href="https://daily.dev/sahillangoo">
     <img src="https://api.daily.dev/devcards/de90c2ec7c1e4d32ad9b06a5b98b7875.png?r=h62" width="380" alt="Sahil Langoo's Dev Card"/>
   </a>
 </div>
@@ -111,7 +111,7 @@
   <a href="https://www.facebook.com/sahillangoojs/"><img src="https://api.iconify.design/ph:facebook-logo-bold.svg?color=%231877F2" width="24" height="24" alt="Facebook"/></a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/sahillangoo.in"><img src="https://api.iconify.design/ph:instagram-logo-bold.svg?color=%23E4405F" width="24" height="24" alt="Instagram"/></a> &nbsp;&nbsp;
   <a href="https://dev.to/sahillangoo"><img src="https://api.iconify.design/ph:code-bold.svg?color=%2322c55e" width="24" height="24" alt="DEV.to"/></a> &nbsp;&nbsp;
-  <a href="https://app.daily.dev/sahillangoo"><img src="https://api.iconify.design/ph:newspaper-clipping-bold.svg?color=%236366f1" width="24" height="24" alt="Daily.dev"/></a> &nbsp;&nbsp;
+  <a href="https://daily.dev/sahillangoo"><img src="https://api.iconify.design/ph:newspaper-clipping-bold.svg?color=%236366f1" width="24" height="24" alt="daily.dev (5.4k+ reads)"/></a> &nbsp;&nbsp;
   <a href="mailto:hello@sahillangoo.in"><img src="https://api.iconify.design/ph:envelope-simple-bold.svg?color=%2322c55e" width="24" height="24" alt="Email"/></a>
 </p>
 
