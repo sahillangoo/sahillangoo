@@ -107,6 +107,7 @@
   <a href="https://sahillangoo.in"><img src="https://api.iconify.design/ph:globe-bold.svg?color=%2322c55e" width="24" height="24" alt="Website"/></a> &nbsp;&nbsp;
   <a href="https://x.com/kashurgeek"><img src="https://api.iconify.design/ph:x-logo-bold.svg?color=%23ffffff" width="24" height="24" alt="X / Twitter"/></a> &nbsp;&nbsp;
   <a href="https://linkedin.com/in/sahillangoo"><img src="https://api.iconify.design/ph:linkedin-logo-bold.svg?color=%230A66C2" width="24" height="24" alt="LinkedIn"/></a> &nbsp;&nbsp;
+  <a href="https://g.dev/sahillangoo"><img src="https://api.iconify.design/ph:google-logo-bold.svg?color=%234285F4" width="24" height="24" alt="Google Developer"/></a> &nbsp;&nbsp;
   <a href="https://www.facebook.com/sahillangoojs/"><img src="https://api.iconify.design/ph:facebook-logo-bold.svg?color=%231877F2" width="24" height="24" alt="Facebook"/></a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/sahillangoo.in"><img src="https://api.iconify.design/ph:instagram-logo-bold.svg?color=%23E4405F" width="24" height="24" alt="Instagram"/></a> &nbsp;&nbsp;
   <a href="https://dev.to/sahillangoo"><img src="https://api.iconify.design/ph:code-bold.svg?color=%2322c55e" width="24" height="24" alt="DEV.to"/></a> &nbsp;&nbsp;
